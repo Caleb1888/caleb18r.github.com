@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<style>
+body {background-color: mediumorchid;}
+h1 {background-color: darkorchid;}
+h2 {background-color: darkorchid;}
+h3 {background-color: darkorchid;}
+h4 {background-color: darkorchid;}
+p {background-color: darkorchid;}
+pre {background-color: darkorchid;}
+
+h1 {
+  color: pink;
+  font-family: sans-serif;
+  font-size: 175%;
+}
+h2 {
+  color: pink;
+  font-family: sans-serif;
+  font-size: 150%;
+}
+h3 {
+  color: pink;
+  font-family: sans-serif;
+  font-size: 150%;
+}
+h4 {
+  color: pink;
+  font-family: sans-serif;
+  font-size: 150%;
+}
+p {
+ color: pink;
+ font-family: sans-serif;
+ font-size: 115%;
+}
+pre {
+  color: pink;
+  font-family: courior;
+  font-size: 95%;
+}
+</style>
+<body>
+
+<h1>Anime</h1>
+<pre> “if you do not enter the tiger's cave, you will not catch its cub”.</pre>
+<p align="justify">Konichiwa, the widespread trend of anime around the world is largely appreciated by veteran anime watchers and new-comers. What is anime ? What types of genres are there? Why is anime so good ? What are the pros and cons ? Should you watch anime ? I'll persuade your opinion with convincing qualities and personal recommendations. Welcome to the world of anime. </p>
+
+<h2> What Is Anime? </h2>
+<p align="justify">What is anime ? Anime - japanese for “animated cartoon”- is a japanese film and television animation, any cartoon is anime to a japanese watcher, regardless if it was made in japan or not. Anime is referred to outside of japan as an “animation made in japan”, any cartoon with japanese like animation style depicting unique facial expressions, dramatic character poses or great use of colour is considered anime. Anime is usually voiced with a japanese voice with subtitles across the bottom of the screen this is called “subbed”. Anime when it’s translated into english is called “dubbed”, dubbed anime watchers are usually looked down upon in the anime community because the anime they’re watching in english isn’t “authentic”. Anime is trendy because it appeals to a wide audience.
+
+What I believe that makes anime so great is the japanese voices that voice the characters. This is what gives birth to memorable quotes from the characters such as<b> “ZA WARUDO”</b> from jojo’s bizarre adventures and<b> “i’ll take a potato chip and EAT IT” </b>from death note. The japanese voice gives the added authenticity to the anime. The animation style plays a huge part as well to the quality of the anime, doing a good job compensating for the animes lacking qualities such as character or plot. Personally I prioritise plot over character or animation because i believe good story telling is better than pretty pictures or how the characters sound.</p>
+
+<h3>What Should You Watch?</h3>
+<p align="justify">When you think of anime you picture a long-haired samurai with a sword at their side or a giant 20 meter robot that shoots lasers, anime is much more than that. Anime consists of a wide variety of genres that appeal to a wide range of people. This gives anime its wide popularity across the world, action, comedy, drama, romance and even some random ones like psychological and military. Out of all these genres, there are some special gems that I would looove to share. Naruto is an anime set in old japanese times with ninjas, some people are born with the special ability of chakra, a power that allows them to “weave hand signs” to summon animals and fire special elemental abilities. Naruto follows a young boy called Naruto who poorly fills the role as a ninja but is born with a unique power that he learns to control to protect his friends and defeat his enemies whilst chasing his childhood dream of becoming the hokage, the leader of the village. Jojo’s bizarre adventures is another anime that is unique in that it follows the stories of an entire generation called the “jojo’s”, the jojos face a 100 year conflict between an immortal man called Dio, each generation have an encounter with this man fighting him which decides the fate of the entire world. These are my personal recommendations on what anime I believe are best to watch.</p>
+
+<h4>Conclusion</h4>
+<p align="justify">In conclusion I personally believe that with a combination of telling you what anime is, what genres there are and making anime good persuades you on why you should watch anime. The animation style in combination with the dubbed voices, plot etc. is the main reason why I believe you should watch anime. As i stated before  “if you do not enter the tiger's cave, you will not catch its cub”. Which is an old japanese saying meaning 'you won't know if you’ll like it unless you try it'.</p>
+
+</body>
+</html>
